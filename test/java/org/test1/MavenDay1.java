@@ -16,6 +16,6 @@ public static void main(String[] args) {
 	driver.get("https:/www.facebook.com");
 	//window maximize
 	driver.manage().window().maximize();
-	
+	System.out.println("done......");
 }
 }
